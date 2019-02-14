@@ -1,5 +1,6 @@
 # RNA-Seq-alignemnt-with-STAR
 General pipeline for aligning fastq RNA-Seq data
+
 Alan Pittman December 2018
 
 Requires the following:
