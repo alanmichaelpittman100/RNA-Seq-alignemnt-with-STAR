@@ -8,12 +8,12 @@
 
 #set the paths to your resources here:
 
-STAR="/homes/athosnew/Genetics_Centre_Bioinformatics/resourses/STAR-2.6.0a/bin/Linux_x86_64/STAR"
+STAR="/resourses/STAR-2.6.0a/bin/Linux_x86_64/STAR"
 samtools="/homes/athosnew/Genetics_Centre_Bioinformatics/resourses/samtools-1.8/samtools"
 
-Genome_FASTA=/"homes/athosnew/Genetics_Centre_Bioinformatics/RNA_seq/resources/Genome_reference/Homo_sapiens.GRCh38.dna.primary_assembly.fa"
-GTF="/homes/athosnew/Genetics_Centre_Bioinformatics/RNA_seq/resources/GTFs/Homo_sapiens.GRCh38.91.gtf"
-genomeDir="/homes/athosnew/Genetics_Centre_Bioinformatics/RNA_seq/resources/STAR_genome_DIR"
+Genome_FASTA="/resources/Genome_reference/Homo_sapiens.GRCh38.dna.primary_assembly.fa"
+GTF="/resources/GTFs/Homo_sapiens.GRCh38.91.gtf"
+genomeDir="/resources/STAR_genome_DIR"
 
 #--------------------------------------------------------------------------------------------
 
