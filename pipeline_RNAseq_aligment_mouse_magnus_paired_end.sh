@@ -1,19 +1,19 @@
 #!/bin/bash
 
 #V1 December 2018
-#RNAseq Alignment Pipeline 
+#RNAseq Alignment Pipeline paired end data
 #Alan Pittman SGUL 2018
 
 #--------------------------------------------------------------------------------------------
 
 #set the paths to your resources here:
 
-STAR="/homes/athosnew/Genetics_Centre_Bioinformatics/resourses/STAR-2.6.0a/bin/Linux_x86_64/STAR"
-samtools="/homes/athosnew/Genetics_Centre_Bioinformatics/resourses/samtools-1.8/samtools"
+STAR="/resourses/STAR-2.6.0a/bin/Linux_x86_64/STAR"
+samtools="/resourses/samtools-1.8/samtools"
 
-Genome_FASTA="/homedirs-porthos/sgul/shares/incc/porthos/Alan/RNA_seq_mouse/resources/References/Genome_FASTA/Mus_musculus.GRCm38.dna.primary_assembly.fa"
-GTF="/homedirs-porthos/sgul/shares/incc/porthos/Alan/RNA_seq_mouse/resources/References/GTF/Mus_musculus.GRCm38.98.gtf" #download from ensemble
-genomeDir="/homedirs-porthos/sgul/shares/incc/porthos/Alan/RNA_seq_mouse/resources/References/STAR_index"
+Genome_FASTA="/References/Genome_FASTA/Mus_musculus.GRCm38.dna.primary_assembly.fa"
+GTF="/resources/References/GTF/Mus_musculus.GRCm38.98.gtf" #download from ensemble
+genomeDir="/resources/References/STAR_index"
 
 #--------------------------------------------------------------------------------------------
 
