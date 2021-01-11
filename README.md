@@ -14,6 +14,6 @@ Homo_sapiens.GRCh38.dna.primary_assembly.fa - ftp://ftp.ensembl.org/pub/release-
 
 Homo_sapiens.GRCh38.91.gtf - https://www.ensembl.org/info/data/ftp/index.html
 
-Script to geenrate star index individually, or embedded in main pipeline
+Script to generate star index individually, or embedded in main pipeline
 
 Can align a single or multiple samples (linear)
